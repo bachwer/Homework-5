@@ -17,6 +17,6 @@ Homework 5
 
 [Giỏi]8. Luyện tập nhóm lệnh motion: 
 
-[Xuất sắc]9. Luyện tập nhóm lệnh motion: 
+[Xuất sắc]9. Luyện tập nhóm lệnh motion: https://scratch.mit.edu/projects/1079141661/
 
 [Xuất sắc]10. Luyện tập nhóm lệnh motion: 
