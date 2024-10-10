@@ -11,7 +11,7 @@ Homework 5
 
 [Khá]5. Luyện tập nhóm lệnh motion: 
 
-[Khá]6. Luyện tập nhóm lệnh motion: 
+[Khá]6. Luyện tập nhóm lệnh motion: https://scratch.mit.edu/projects/1079407957
 
 [Giỏi]7. Luyện tập nhóm lệnh motion: https://scratch.mit.edu/projects/1079405770
 
