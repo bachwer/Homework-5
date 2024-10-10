@@ -9,7 +9,7 @@ Homework 5
 
 [Cơ bản]4. Luyện tập nhóm lệnh motion: 
 
-[Khá]5. Luyện tập nhóm lệnh motion: 
+[Khá]5. Luyện tập nhóm lệnh motion: https://scratch.mit.edu/projects/1079425660
 
 [Khá]6. Luyện tập nhóm lệnh motion: https://scratch.mit.edu/projects/1079407957
 
